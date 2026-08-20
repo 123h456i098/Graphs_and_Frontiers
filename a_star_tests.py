@@ -1,4 +1,4 @@
-from AStarFrontier import *
+from a_star_frontier import *
 from search import *
 
 def tests_one():
